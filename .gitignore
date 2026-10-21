@@ -1,0 +1,11 @@
+.env
+.vscode
+env
+grenoble_lts_output/
+communes-20220101.json
+lts_output/
+__pycache__/
+*.pyc
+venv/
+retry_pdfs/
+checkpoint*.json
